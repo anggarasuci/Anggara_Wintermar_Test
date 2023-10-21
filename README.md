@@ -1,79 +1,37 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Introduction
 
-# Getting Started
+This is sample app registration, otp, login and welcome screen for Wintermar Test
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+## Tech
 
-## Step 1: Start the Metro Server
+- React Native
+- Redux
+- Clean Architecture Concept
+- MVVM Pattern
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## Record
 
-```bash
-# using npm
-npm start
+https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/05784cbb-e0ea-4ad8-af0a-0b5cba6e90a4
 
-# OR using Yarn
-yarn start
-```
+## Screenshoot
 
-## Step 2: Start your Application
+- Registration Form
+https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/db802f63-ef16-40ea-ab33-c52a7b57635d
+![Screenshot 2023-10-22 at 00 24 23](https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/3f7e9627-f4d6-42b4-b54d-239bfe14b8f2)
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+- Otp Form
+![Screenshot 2023-10-22 at 00 25 09](https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/741ad7f2-9fd5-4013-8950-14f9961fb8fe)
+![Screenshot 2023-10-22 at 00 26 28](https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/e6dfc638-a453-4424-b810-50d82526f63b)
 
-### For Android
+- Login Form
+![Screenshot 2023-10-22 at 00 27 09](https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/f3ed4dd2-c47d-4a44-9aa7-3016d31f9c2a)
 
-```bash
-# using npm
-npm run android
+- Welcome Form
+![Screenshot 2023-10-22 at 00 27 43](https://github.com/anggarasuci/Anggara_Wintermar_Test/assets/29857172/a986b74d-8d0a-4b37-a47d-37ea5b05d6b9)
 
-# OR using Yarn
-yarn android
-```
 
-### For iOS
 
-```bash
-# using npm
-npm run ios
 
-# OR using Yarn
-yarn ios
-```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
-
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
