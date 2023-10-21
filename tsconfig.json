@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "jsx": "react-native",
+    "strict": true,
+    "esModuleInterop": true
+  },
+  "types": ["react-native"],
+  "lib": ["esnext"],
+  "moduleResolution": "node"
+}
